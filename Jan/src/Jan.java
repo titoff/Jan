@@ -12,6 +12,7 @@ public class Jan {
 		System.out.println("Hej");
 		
 		System.out.println("hejhej");
+		System.out.println("dådå");
 
 	
 		}
