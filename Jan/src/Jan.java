@@ -8,6 +8,7 @@ public class Jan {
 		// TODO Auto-generated method stub
 
 		System.out.println("Filip");
+		System.out.println("Jan");
 	}
 
 }
