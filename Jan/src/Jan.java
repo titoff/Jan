@@ -9,6 +9,14 @@ public class Jan {
 
 		System.out.println("Filip");
 		System.out.println("Jan");
+		
+		public Course(String courseCode, String courseName, int coursePoints){
+
+			setcourseCode(courseCode);
+			setcourseName(courseName);
+			setcoursePoints(coursePoints); 
+		}
+
 	}
 
 }
