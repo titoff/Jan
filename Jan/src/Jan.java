@@ -10,6 +10,8 @@ public class Jan {
 		System.out.println("Filip");
 		System.out.println("Jan");
 		System.out.println("Hej");
+		
+		System.out.println("hejhej");
 
 	
 		}
